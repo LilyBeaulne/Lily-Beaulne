@@ -23,7 +23,7 @@ We started with the concept art of Ava and Buddy, which once again initially com
 After another reminder, Co-pilot was able to create a visual that depicted Buddy in a more accurate light, but still very personified in a more sci-fi robot figure. 
 
 I’d also like to note that even though we were dealing with the same character, 
-[Ava, in all the visuals, Co-pilot more often than not changed how she looked completely.]( #artwork-created-by-co-pilot.) 
+[Ava, in all the visuals, Co-pilot more often than not changed how she looked completely.]( https://github.com/LilyBeaulne/Lily-Beaulne/blob/main/MarkdownTechTales.md#artwork-created-by-co-pilot) 
 After these few initial concepts, I prompted for the art style to be storybook-esque. 
 The first cover, though aesthetically pleasing, still ignored many previous prompts about Buddy not being an actual robot, and instead being a tablet program- Ava's appearance also changed again.
 The next cover iterations, after clarification of Buddy’s nature, were much better, and we eventually ended up with a cover that I am really happy with.
