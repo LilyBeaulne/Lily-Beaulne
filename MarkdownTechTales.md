@@ -23,15 +23,16 @@ We started with the concept art of Ava and Buddy, which once again initially com
 After another reminder, Co-pilot was able to create a visual that depicted Buddy in a more accurate light, but still very personified in a more sci-fi robot figure. 
 
 I’d also like to note that even though we were dealing with the same character, 
-[Ava, in all the visuals, Co-pilot more often than not changed how she looked completely.]( https://github.com/LilyBeaulne/Lily-Beaulne/blob/main/MarkdownTechTales.md#artwork-created-by-co-pilot) 
+Ava, in all the visuals, Co-pilot more often than not changed how she looked completely 
+<sup>[See Here](https://github.com/LilyBeaulne/Lily-Beaulne/blob/main/MarkdownTechTales.md#artwork-created-by-co-pilot)</sup> .
 After these few initial concepts, I prompted for the art style to be storybook-esque. 
 The first cover, though aesthetically pleasing, still ignored many previous prompts about Buddy not being an actual robot, and instead being a tablet program- Ava's appearance also changed again.
 The next cover iterations, after clarification of Buddy’s nature, were much better, and we eventually ended up with a cover that I am really happy with.
 I ran into the most challenges when it came to visuals depicting actual story content, including dialogue.
 I first started this part with a prompt for a sample comic that depicted one of the lessons from the story planning.
 This yielded a nice comic, with Buddy on a tablet, but it lacked actual story content. 
-This is where I let Co-pilot choose what story to focus on, creating a plan for a four-panel comic. C
-o-pilot came up with one for online safety, with a short line of dialogue from Ava and Buddy in each panel.
+This is where I let Co-pilot choose what story to focus on, creating a plan for a four-panel comic. 
+Co-pilot came up with one for online safety, with a short line of dialogue from Ava and Buddy in each panel.
 Co-pilot struggled with integrating all the parts of this plan into the visuals, once again running into the problem of personifying Buddy.
 Our chat was cut short by the response limit for a single chat shortly after. 
 
@@ -86,11 +87,11 @@ AI has a lot of catching up to do to match the creative and abstract abilities o
 I find that AI may start to chip away at the human desire to create emotion and connect through art.
 When we start to see art as instantly being able to be created, it takes away from its impact—we even see this with human artists.
 Finally, in the context of children's stories, I feel children may suffer from AI art becoming a prominent mode for books. 
-These stories and illustrations may lack the authentic emotional content and human experience that these storybooks are meant to invoke to teach children.
+***These stories and illustrations may lack the authentic emotional content and human experience that these storybooks are meant to invoke to teach children***.
 This makes me question the impact of AI-driven storytelling on young people, and how these effects will change as AI increases its capabilities 
 
 
-### Final creative work 
+# Final creative work 
 ## Tech Tales: Using AI Wisely
 ### Summary
 > this is a summary of what this part of the project is . it is the actual work that co-pilot produced, the final that we worked towards, and some iterations.
@@ -105,7 +106,7 @@ Buddy is Friendly, knowledgeable, and eager to help Ava with her daily tasks and
 However, Ava soon learns that Using AI comes with certain responsibilities. 
 Together, they embark on adventures that teach Ava and her friends *how to use AI safely and wisely*.
 
-Ava faces a few situations in the story. 
+Ava will face a few situations in the story. 
 - Ava first uses Buddy to help with her homework, learning the importance of understanding the material herself- using AI as a supplementary tool. 
 - Buddy then teaches Ava about Online safety, including not sharing personal information. 
 - Ava and her friends use Buddy to create a fun project, learning about the creative possibilities of AI. 
@@ -119,7 +120,7 @@ This book aims to show **4** themes:
 - problem solving   
 
 
-  ## Artwork, Created by Co-Pilot
+## Artwork, Created by Co-Pilot
 
 ### Cover Art
 
