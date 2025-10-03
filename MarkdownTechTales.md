@@ -87,3 +87,42 @@ When we start to see art as instantly being able to be created, it takes away fr
 Finally, in the context of children's stories, I feel children may suffer from AI art becoming a prominent mode for books. 
 These stories and illustrations may lack the authentic emotional content and human experience that these storybooks are meant to invoke to teach children.
 This makes me question the impact of AI-driven storytelling on young people, and how these effects will change as AI increases its capabilities 
+
+
+### Final creative work 
+## Tech Tales: Using AI Wisely
+### Summary
+> this is a summary of what this part of the project is . it is the actual work that co-pilot produced, the final that we worked towards, and some iterations.
+
+### Children's book created and revised with Microsoft Co-Pilot
+**Synopsis of story**
+
+*Ava* is a curious and imaginative 8-year-old girl. 
+She discovers a magical tablet in her attic.
+When she turns it on, she meets an AI named *Buddy*.
+Buddy is Friendly, knowledgeable, and eager to help Ava with her daily tasks and learning. 
+However, Ava soon learns that Using AI comes with certain responsibilities. 
+Together, they embark on adventures that teach Ava and her friends *how to use AI safely and wisely*.
+
+Ava faces a few situations in the story. 
+- Ava first uses Buddy to help with her homework, learning the importance of understanding the material herself- using AI as a supplementary tool. 
+- Buddy then teaches Ava about Online safety, including not sharing personal information. 
+- Ava and her friends use Buddy to create a fun project, learning about the creative possibilities of AI. 
+- Ava also faces a challenge where she must use her own judgement, only using Buddy for guidance but not the answers.
+
+The book ends with Ava and her friends having a deeper understanding of the importance of using Ai responsibly and the value of having her own skills and knowledge. 
+This book aims to show **4** themes: 
+- responsibility
+- safety
+- creativity
+- problem solving   
+
+
+  ### Artwork, Created by Co-Pilot
+
+  **Cover Art**
+
+  ![Alt text](/Users/lilybeaulne/Downloads/Techtales)
+  
+  
+  
