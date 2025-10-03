@@ -17,12 +17,13 @@ I also wanted to pivot from the first title suggested, as it wasn’t very educa
 Co-pilot suggested ten new ideas, each treating Buddy as a human character; you wouldn’t know it’s an AI from these titles. 
 So, I further clarified that it should be clear that Buddy is an AI system. 
 This prompt would be used multiple times throughout our interactions as Co-pilot tended to drift from this concept. 
-I landed on a title that doesn’t focus on the characters, as even with this clarification, the titles were still too unclear- that's how we ended up with **Tech Tales: Using AI Wisely**.
+I landed on a title that doesn’t focus on the characters, as even with this clarification, the titles were still too unclear- that's how we ended up with *Tech Tales: Using AI Wisely*.
 The rest of our interactions focused on creating visuals and book pages for this story using the designer interface of Co-pilot.
 We started with the concept art of Ava and Buddy, which once again initially completely ignored the fact that Buddy is an AI system. 
 After another reminder, Co-pilot was able to create a visual that depicted Buddy in a more accurate light, but still very personified in a more sci-fi robot figure. 
 
-I’d also like to note that even though we were dealing with the same character, Ava, in all the visuals, Co-pilot more often than not changed how she looked completely.
+I’d also like to note that even though we were dealing with the same character, 
+[Ava, in all the visuals, Co-pilot more often than not changed how she looked completely.]( #artwork-created-by-co-pilot.) 
 After these few initial concepts, I prompted for the art style to be storybook-esque. 
 The first cover, though aesthetically pleasing, still ignored many previous prompts about Buddy not being an actual robot, and instead being a tablet program- Ava's appearance also changed again.
 The next cover iterations, after clarification of Buddy’s nature, were much better, and we eventually ended up with a cover that I am really happy with.
@@ -118,11 +119,87 @@ This book aims to show **4** themes:
 - problem solving   
 
 
-  ### Artwork, Created by Co-Pilot
+  ## Artwork, Created by Co-Pilot
 
-  **Cover Art**
+### Cover Art
 
-  ![Alt text](/Users/lilybeaulne/Downloads/Techtales)
-  
-  
-  
+<img width="708" height="708" alt="Little girl holding tablet that displays an AI robot" src="https://github.com/user-attachments/assets/aba6a54f-bd20-4218-9f32-7c320e68d6a7" />
+
+
+
+### Buddy's Interface
+
+<img width="552" height="552" alt="Two hands holding a tablet that displays different app logos and a central face. Text says Buddy" src="https://github.com/user-attachments/assets/624abfdd-630a-4789-9bdf-c798eba9416f" />
+
+
+### Suggested Book Pages and Dialogue
+
+***These images were suggested for the online safety theme***
+
+Image one
+
+
+  <img width="936" height="936" alt="Girl with glasses uses tablet with AI buddy. Speach bubble with a dog reading a book in it" src="https://github.com/user-attachments/assets/2e0264e7-5630-4531-af0e-bfd55abfe9b7" />
+
+> Ava is exitedly using the tablet with Buddy on the screen
+> 
+> *Ava*: " Buddy, Can you help me find some cool games to play online?"
+> 
+> *Buddy*: "Sure, Ava! But first, let's talk about staying safe online."
+> 
+
+
+ Image two
+
+ 
+  <img width="936" height="936" alt="5 comic panels of a little girl using a tablet with a robot on it." src="https://github.com/user-attachments/assets/d5fdbc22-1404-4006-9a5d-8b011b6522d5" />
+
+> **Panel 1**: Ava is exitedly using the tablet with Buddy on the screen
+> 
+> *Ava*: " Buddy, Can you help me find some cool games to play online?"
+> 
+> *Buddy*: "Sure, Ava! But first, let's talk about staying safe online."
+>
+> **Panel 2**: Buddy explains the importance of not sharing personal information.
+>
+> *Buddy*: "Remember, Ava, never share your personal information like your name, address, or school online."
+>
+> *Ava*: "Got it, Buddy! What else should I know?"
+>
+> **Panel 3**: Buddy talks about recognizing safe websites and apps.
+> 
+> *Buddy*: "Always make sure the websites and apps you use are safe and trusted. Look for security symbols like a padlock in the address bar."
+>
+> *Ava*: "Thanks, Buddy! I'll be careful."
+>
+> **Panel 4**: Ava is happily playing a game on a safe website, with Buddy smiling on the tablet screen.
+>
+> *Ava*: "This game is so much fun, and I feel safe thanks to you, Buddy!"
+>
+> *Buddy*: "I'm glad to help, Ava! Always remember to stay safe online."
+
+
+Image three
+
+
+  <img width="936" height="936" alt="A little girl points to a tablet with a white and red robot on the screen. there is a speech bubble with the bust of a little girl in it" src="https://github.com/user-attachments/assets/b1a8b8fd-5e92-4b44-9e1a-1959e5201a48" />
+
+> Ava is excitedly using the tablet with Buddy on the screen.
+>
+> *Ava*: "Buddy, can you help me find some cool games to play online?"
+>
+> *Buddy*: "Sure, Ava! But first, let's talk about staying safe online."
+
+
+Image four
+
+
+  <img width="936" height="936" alt="a girl sits infront of a laptop. a robot stands beside her and points. there is a speech bubble" src="https://github.com/user-attachments/assets/10835433-941b-42ee-b25c-6d79491085ff" />
+
+> Buddy explains the importance of not sharing personal information.
+>
+> *Buddy*: "Remember, Ava, never share you personal information like your name, address, or school online."
+>
+> *Ava*: "Got it, Buddy! What else should I know?"
+> 
+
