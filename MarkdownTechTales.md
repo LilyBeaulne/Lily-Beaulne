@@ -3,8 +3,12 @@
 *March 2025*
 
 Lily Beaulne
-### Summary
-> This is the summary of this project that i will write soon. here is its relevence to our hournal. i do not plan to submit it to our journal
+### Abstract/Summary
+> I don't plan to submit this work for our journal but I think the intersection of AI and artistic work like creating a story book is a great theme to explore for our theme.
+> I think there is also an interesting chance to explore how automating creativity and art through AI will affect children's experiences and chances to learn from and be inspired by forms of art they are introduced to early on. 
+> This is a reflection on the final creative process for PHIL 3370 ethics of artificial intelligence.
+>  I iteratively prompted Microsoft Co-pilot, and its generative image feature powered by Dall-e to create a children's story book based around online safety, specifically when using AI- as well as how to use AI in helpful instead of hurtful ways.
+> here, the creative process, technical understanding, and ethical implications are briefly explored. 
 ### Process
 
 I chose to create a children's book concept with Microsoft Co-pilot. Co-pilot did a good job  with concept planning, suggesting multiple characters, themes, and situations to explore.
@@ -94,7 +98,9 @@ This makes me question the impact of AI-driven storytelling on young people, and
 # Final creative work 
 ## Tech Tales: Using AI Wisely
 ### Summary
-> this is a summary of what this part of the project is . it is the actual work that co-pilot produced, the final that we worked towards, and some iterations.
+> This section includes the actual outputs Microsoft Co-pilot produced following iterative interactions.
+> Starting with the actual suggested characters and plot of the children's book.
+>  As well as suggested images. 
 
 ### Children's book created and revised with Microsoft Co-Pilot
 **Synopsis of story**
