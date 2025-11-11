@@ -1,7 +1,7 @@
 Title: PHIL 3370 Reflection.Tech Tales: Using AI Wisely
 Date: 2025-10-08
 Author: Lily Beaulne
-abstract: This is a reflection on the final creative process for PHIL 3370 ethics of artificial intelligence. I iteratively prompted Microsoft Co-pilot, and its generative image feature powered by Dall-e to create a children's story book based around online safety, specifically when using AI- as well as how to use AI in helpful instead of hurtful ways. here, the creative process, technical understanding, and ethical implications are briefly explored. 
+abstract: This is a reflection on the final creative process for PHIL 3370 ethics of artificial intelligence. I iteratively prompted Microsoft Co-pilot, and its generative image feature powered by Dall-e to create a children's storybook based around online safety, specifically when using AI- as well as how to use AI in helpful instead of hurtful ways. here, the creative process, technical understanding, and ethical implications are briefly explored. 
 tags: AI, storybook, narrative, reflection
 
 # *PHIL 3370 Reflection*
@@ -216,3 +216,9 @@ Image four
 > *Ava*: "Got it, Buddy! What else should I know?"
 > 
 
+
+
+### Resources Used
+[ Microsoft Copilot. (2025).](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals?form=MY02P9)
+
+    
